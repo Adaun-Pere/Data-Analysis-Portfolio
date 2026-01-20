@@ -17,7 +17,7 @@ All queries were written in a single SQL script and executed using SQL Server Ma
 Identify the different customer segments in the business.
 
 **Insight:**  
-The analysis reveals four distinct customer segments, helping the business better understand its customer base.
+The analysis groups customers into four distinct customer segments( Low, medium, high and top), helping the business better understand its customer base.
 
 **Business Value:**  
 - Enables customer segmentation  
@@ -65,28 +65,13 @@ Some products consistently outperform others within their categories.
 Identify customers who contribute the most to total revenue.
 
 **Insight:**  
-A small number of customers generate a large portion of total sales.
+These Top 10 customers generate a large portion of the total sales.
 
 **Business Value:**  
 - Helps identify high-value customers  
 - Supports loyalty and retention strategies  
 - Enables targeted engagement campaigns  
 
----
-
-## 📂 Project Structure
-
-AdventureWorks_SQL
-├── Queries
-│ └── adventureWorks.sql
-│
-├── Results
-│ ├── 4 distinct customer segments.png
-│ ├── Products bought on our last day of business.png
-│ ├── Top 3 selling products in each category.png
-│ └── Top 10 customers by revenue.png
-│
-└── README.md
 
 ---
 
@@ -116,7 +101,6 @@ Each query is clearly commented for readability.
 - Customers can be clearly segmented for better targeting
 - A few products generate most of the revenue
 - High-value customers contribute significantly to total sales
-- SQL provides strong business insights when used effectively
 
 ---
 
@@ -130,4 +114,5 @@ Each query is clearly commented for readability.
 
 ## 👤 Author
 **[Adaun Toubouperedein]**  
+
 Data Analyst | SQL | Power BI | Excel
