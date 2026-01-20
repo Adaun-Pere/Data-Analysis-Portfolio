@@ -8,16 +8,16 @@ All queries were written in a single SQL script and executed using SQL Server Ma
 
 ---
 
-## 🎯 Business Questions Answered
+## 🎯 Business intelligence Questions Answered
 
-### 1️⃣ What are the distinct customer segments?
+### 1️⃣ Creat 4 distinct customer segments?
 ![Customer Segments](Results/4%20distinct%20customer%20segments.png)
 
 **Objective:**  
 Identify the different customer segments in the business.
 
 **Insight:**  
-The analysis groups customers into four distinct customer segments( Low, medium, high and top), helping the business better understand its customer base.
+The analysis groups customers into four distinct customer segments based on revenue( Low revenue, medium revenue, high revenue and top revenue), helping the business better understand its customer base.
 
 **Business Value:**  
 - Enables customer segmentation  
@@ -116,3 +116,4 @@ Each query is clearly commented for readability.
 **[Adaun Toubouperedein]**  
 
 Data Analyst | SQL | Power BI | Excel
+
