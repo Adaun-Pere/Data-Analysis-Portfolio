@@ -49,7 +49,7 @@ This project analyzes sales data to understand revenue trends, customer behavior
 - Dynamic charts and visuals  
 - Clean and professional dashboard design  
 
-📂 Folder: `Sales_Performance_PowerBI/`
+📂 Folder: `Sales_Performance_dashboard/`
 
 ---
 
@@ -66,7 +66,7 @@ This project uses SQL to analyze business data from the AdventureWorks database 
 - What products were sold on the last business day?  
 - How are customers segmented?
 
-📂 Folder:AdventureWorks_sql
+📂 Folder:`AdventureWorks_SQL/`
 
 ---
 
