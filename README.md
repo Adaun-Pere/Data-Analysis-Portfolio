@@ -104,7 +104,7 @@ This project analyzes student academic performance to identify trends, performan
 ## 📬 Contact
 
 📧 Email: *[adauntoubouperedein@gmail.com]*  
-🔗 LinkedIn: *[linkedin.com/in/pere-adaun]*  
+🔗 LinkedIn: *[www.linkedin.com/in/pere-adaun]*  
 💻 GitHub: *[Adaun-Pere]*  
 
 ---
